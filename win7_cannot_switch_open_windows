@@ -1,1 +1,7 @@
+参考:
 http://answers.microsoft.com/en-us/windows/forum/windows_7-desktop/cannot-switch-between-windows-without-minimizing/826b0379-af69-4102-99f9-6c9303923ce5?auth=1
+
+解决：
+控制面板->程序和功能->卸载视频驱动‘Conexant HD Audio’
+设备管理器->'声音、视频和游戏控制器'->'Conexant HD Audio'右键更新驱动
+之后系统提示需重启电脑，重启之后恢复正常， 且设备管理器和'程序与功能'里的视频驱动还在
