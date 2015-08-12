@@ -1,0 +1,8 @@
+参考：
+https://cloud.google.com/storage/docs/gsutil_install
+1.下载gsutil zip包, 解压到C盘根目录即可
+2.运行gsutil
+    两种方法：
+    a.命令 python C:\gsutil\gsutil
+    b. 将gsutil.py所在所在路径添加到Path环境变量中，eg: ;C:\gsutil\;
+       之后可直接运行命令: gsutil.py
